@@ -9,7 +9,7 @@ public static void main(String[] args) {
      
      System.out.println("HashSet elements: " + stringSet);
      stringSet.remove("Banana");
-     System.out.println("HashSet elements after removing: " + stringSet);
+     
      System.out.println("new line");
 
 
