@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	 stringSet.add("Apple");
     
      stringSet.add("watermelon");
-     stringSet.add("Gauva");
+     
      System.out.println("HashSet elements: " + stringSet);
      stringSet.remove("Banana");
      System.out.println("HashSet elements after removing: " + stringSet);
